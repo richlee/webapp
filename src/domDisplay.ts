@@ -1,6 +1,6 @@
 import { Product, Order } from "./data/entities";
 
-export class domDisplay {
+export class DomDisplay {
 
     props: {
         products: Product[],
